@@ -1,6 +1,6 @@
 # 🤖 Robot Arm Project
 
-![Robot Arm](assets/robot_arm.png)
+<img width="605" height="675" alt="Image" src="https://github.com/user-attachments/assets/7e8b6e76-465c-42a6-91b8-5adf3e246831" />
 
 ## 📌 Overview
 This project is a **robotic arm design** developed for educational, prototyping, and automation purposes.  
